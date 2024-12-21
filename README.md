@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Michelle!
 
-<!--
-**miholmestech/miholmestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate learner diving into cybersecurity. After earning my Security+ certification, I'm now working toward CySA+ and exploring Python programming step by step. I'm committed to learning, building, and evolving as I continue this journey.
 
-Here are some ideas to get you started:
+🎯 Goals:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Master Python and apply it to real-world cybersecurity projects.
+- Build my portfolio with hands-on labs and personal projects.
+- Earn my CySA+ certification.
+- Share insights and lessons learned to help others in the community.
+
+🔧 Currently working on:
+
+- Developing my portfolio.
+- Learning the basics of Python. 
+
+
