@@ -10,7 +10,7 @@ This repository documents my progress, practice, and projects as I move through:
 - 🛡️ Blue team tools and concepts
 - 🧠 Notes, walkthroughs, and experiments
 
-I'm learning in public — not because I know everything, but because I believe in sharing the process. My goal is to build a strong technical foundation, develop confidence, and transition into a cybersecurity role.
+I'm learning in public to sharing the process with others who can relate. My goal is to build a strong technical foundation, develop confidence, and transition into a cybersecurity role.
 
 If you're on a similar journey, feel free to follow along, connect, or collaborate. Let’s grow together.
 
