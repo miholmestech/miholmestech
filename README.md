@@ -1,17 +1,31 @@
-### Hi, I'm Michelle!
+## Hi, I'm Michelle 👋
 
-A passionate learner diving into cybersecurity. After earning my Security+ certification, I'm now working toward CySA+ and exploring Python programming step by step. I'm committed to learning, building, and evolving as I continue this journey.
+I'm building a strong foundation in cybersecurity with a focus on Linux, blue team skills, and hands-on learning. I recently completed the CompTIA trifecta (Security+, CySA+, and Network+), and I'm actively working through Linux books and labs to deepen my technical comfort.
 
-🎯 Goals:
+This repository documents my progress, practice, and projects as I move through:
 
-- Master Python and apply it to real-world cybersecurity projects.
-- Build my portfolio with hands-on labs and personal projects.
-- Earn my CySA+ certification.
-- Share insights and lessons learned to help others in the community.
+- 📚 Linux learning (books + hands-on practice)
+- 💻 RangeForce modules and labs
+- 🔧 Command-line exercises
+- 🛡️ Blue team tools and concepts
+- 🧠 Notes, walkthroughs, and experiments
 
-🔧 Currently working on:
+I'm learning in public — not because I know everything, but because I believe in sharing the process. My goal is to build a strong technical foundation, develop confidence, and transition into a cybersecurity role.
 
-- Developing my portfolio.
-- Learning the basics of Python. 
+If you're on a similar journey, feel free to follow along, connect, or collaborate. Let’s grow together.
+
+---
+
+## 🔥 Current Focus
+
+- Linux command line fundamentals
+- RangeForce Linux Core Path
+- Building repeatable command habits
+- Organizing documentation
+
+---
+
+
+
 
 
