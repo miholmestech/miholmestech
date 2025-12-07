@@ -1,6 +1,6 @@
 ## Hi, I'm Michelle 👋
 
-I'm building a strong foundation in cybersecurity with a focus on Linux, blue team skills, and hands-on learning. I recently completed the CompTIA trifecta (Security+, CySA+, and Network+), and I'm actively working through Linux books and labs to deepen my technical comfort.
+I'm building a strong foundation in cybersecurity with a focus on Linux, blue team skills, and hands-on learning. I am Comptia certified in Network+, Security+, and CySA+. I'm also actively working through Linux books and labs to deepen my understanding of the linux command line. 
 
 This repository documents my progress, practice, and projects as I move through:
 
