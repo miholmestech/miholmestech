@@ -15,7 +15,7 @@ Career changer building **Blue Team skills** → targeting SOC Analyst roles. Do
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
 | **Foundations** | Network+/Security+/CySA+ ✓ | TCP/IP, networking, security fundamentals |
-| **Linux CLI** | Ch.20/36 [linux-journey-](../linux-journey-) | File mgmt, zsh, Kali, scripting basics |
+| **Linux CLI** | Ch.20/36 [linux-journey-](miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting basics |
 | **RangeForce** | Core 1-3/6 ✓ | Log analysis, monitoring, detection |
 | **SIEM Lab** | Planning → | Wazuh|
 
@@ -26,7 +26,7 @@ Career changer building **Blue Team skills** → targeting SOC Analyst roles. Do
 - `📁` Portfolio organization
 
 ## 🚀 Featured Projects
-[![linux-journey-](../linux-journey-)]
+[![linux-journey-](miholmestech/linux-journey-)]
 > 36-chapter Linux CLI mastery + demos
 
 **#BlueTeam #SOCAnalyst #Linux** - Learning in public 🚀
