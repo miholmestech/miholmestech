@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Michelle Holmes | SOC Analyst in Training
 
-**Teaneck, NJ** | [LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
+**Teaneck, NJ** |[LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
+
 **SOC Analyst | Blue Team Labs | RangeForce** 
 
 CompTIA Certified  
