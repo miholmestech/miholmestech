@@ -10,11 +10,10 @@ CompTIA Certified
 
 
 Career changer building **Blue Team skills** → targeting SOC Analyst roles. Documenting Linux CLI mastery, RangeForce labs, and hands-on projects.
-
 ## 🛡️ Progress Roadmap
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
-| **Linux CLI** | Ch.20/36 [linux-journey](https://github.com/miholmestech/linux-journey) | File mgmt, zsh, Kali, scripting basics |
+| **Linux CLI** | Ch.20/36 [![linux-journey](https://github.com/miholmestech/linux-journey)](https://github.com/miholmestech/linux-journey) | File mgmt, zsh, Kali, scripting |
 
 
 ## 🔥 Current Focus
@@ -23,9 +22,10 @@ Career changer building **Blue Team skills** → targeting SOC Analyst roles. Do
 - `🔧` CLI muscle memory + Kali labs
 - `📁` Portfolio organization
 
-  
+
+
 ## 🚀 Featured Projects
-[![linux-journey](https://github.com/miholmestech/linux-journey/raw/main/linux-journey.png)](https://github.com/miholmestech/linux-journey)
+[![linux-journey](https://github.com/miholmestech/linux-journey/raw/main/screenshot.png)](https://github.com/miholmestech/linux-journey)
 > 36-chapter Linux CLI mastery + demos
 
 
