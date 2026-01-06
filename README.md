@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michelle Holmes | SOC Analyst in Training
 
-**Teaneck, NJ** | [LinkedIn](https://linkedin.com/in/miholmestech)
+**Teaneck, NJ** | [LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
 
 
 CompTIA Certified  
