@@ -12,7 +12,7 @@ CompTIA Certified
 ## 🛡️ Progress Roadmap
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
-| **Linux CLI** | Ch.20/36 [![linux-journey](https://github.com/miholmestech/linux-journey-)](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
+| **Linux CLI** | Ch.20/36 [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
 
 
 
@@ -24,7 +24,7 @@ CompTIA Certified
 
 
 ## 🚀 Featured Projects
-[![linux-journey](https://github.com/miholmestech/linux-journey-/raw/main/screenshot.png)](https://github.com/miholmestech/linux-journey-)
+[linux-journey](https://github.com/miholmestech/linux-journey-)
 > 36-chapter Linux CLI mastery + demos
 
 
