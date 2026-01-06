@@ -9,11 +9,11 @@ CompTIA Certified
 [![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-red?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/64eff6d2-242b-4222-8534-c4fe9a003254/public_url)
 
 
-Career changer building **Blue Team skills** → targeting SOC Analyst roles. Documenting Linux CLI mastery, RangeForce labs, and hands-on projects.
 ## 🛡️ Progress Roadmap
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
-| **Linux CLI** | Ch.20/36 [![linux-journey](https://github.com/miholmestech/linux-journey-)| File mgmt, zsh, Kali, scripting |
+| **Linux CLI** | Ch.20/36 [![linux-journey](https://github.com/miholmestech/linux-journey-)](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
+
 
 
 ## 🔥 Current Focus
@@ -23,10 +23,10 @@ Career changer building **Blue Team skills** → targeting SOC Analyst roles. Do
 - `📁` Portfolio organization
 
 
-
 ## 🚀 Featured Projects
-[![linux-journey](https://github.com/miholmestech/linux-journey-)
+[![linux-journey](https://github.com/miholmestech/linux-journey-/raw/main/screenshot.png)](https://github.com/miholmestech/linux-journey-)
 > 36-chapter Linux CLI mastery + demos
+
 
 
 **#BlueTeam #SOCAnalyst #Linux** - Learning in public 🚀
