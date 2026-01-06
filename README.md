@@ -2,9 +2,10 @@
 
 **Teaneck, NJ** | [LinkedIn](https://linkedin.com/in/miholmestech)
 
-[![Security+](https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/b55e3a90-2974-425d-9a5e-b35886a960d2/public_url)
+[![Network+](https://img.shields.io/badge/Network%2B-✓-brightgreen)]
+[![Security+](https://img.shields.io/badge/Security%2B-✓-blue)]
+[![CySA+](https://img.shields.io/badge/CySA%2B-✓-purple)]
 
-![CompTIA Certifications](https://img.shields.io/badge/CompTIA-Network%2B%20Security%2B%20CySA%2B-brightgreen?style=flat&logo=comptia&logoColor=white)
 
 Career changer building **Blue Team skills** → targeting SOC Analyst roles. Documenting Linux CLI mastery, RangeForce labs, and hands-on projects.
 
