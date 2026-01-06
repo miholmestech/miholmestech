@@ -2,7 +2,7 @@
 
 **Teaneck, NJ** |[LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
 
-** Blue Team Training | RangeForce | Linux Fundmentals ** 
+** Blue Team Training | RangeForce | Linux Fundamentals ** 
 
 CompTIA Certified  
 [![Network+](https://img.shields.io/badge/CompTIA_Network%2B-red?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/8178fd2e-f02f-4a62-9cd7-f8a961f34b44/public_url) 
