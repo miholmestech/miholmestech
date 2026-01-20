@@ -13,12 +13,12 @@ CompTIA Certified
 ## 🛡️ Progress Roadmap
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
-| **Linux CLI** | Ch.20/36 [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
+| **Linux CLI** | Ch.31/36 [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
 
 
 
 ## 🔥 Current Focus
-- `📚` Linux Command Line book (Ch.20/36)
+- `📚` Linux Command Line book (Ch.31/36)
 - `💻` RangeForce Linux Core Path
 - `🔧` CLI muscle memory + Kali labs
 - `📁` Portfolio organization
