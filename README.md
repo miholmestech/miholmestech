@@ -26,11 +26,11 @@ CompTIA Certified
 
 ## 🧪 Home Lab
 
-- `🛡️` Wazuh home SOC lab (Ubuntu + Windows 10 + Kali VMs)
+- `🛡️` Wazuh home SOC lab (Ubuntu)
 
 ## 📂 SOC Analyst Projects
 
-- `📝` Endpoint detection and investigation reports from Wazuh lab activity
+- `📝` Endpoint Compromise Detection & Threat Containment
 
 ​
   
