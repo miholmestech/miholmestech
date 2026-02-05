@@ -24,18 +24,17 @@ CompTIA Certified
 
 ## 📂 SOC Analyst Projects
 
-- `📝` Endpoint Compromise Detection & Threat Containment
+- `📝` [Endpoint Compromise Detection & Threat Containment](02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
 ​
   
 
 
 ## 🚀 Featured Projects
-[Endpoint Compromise Detection & Threat Containment]
-[linux-journey](https://github.com/miholmestech/linux-journey-)
-> 36-chapter Linux CLI mastery + demos
+[Endpoint Compromise Detection & Threat Containment](02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
-
+[Linux Journey](https://github.com/miholmestech/linux-journey-)
+> Linux CLI mastery + demos
 
 **#BlueTeam #SOCAnalyst #Linux** - Learning in public 🚀
 
