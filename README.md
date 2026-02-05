@@ -24,14 +24,14 @@ CompTIA Certified
 
 ## 📂 SOC Analyst Projects
 
-- `📝` [Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
+- `📝` [Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects-/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
 ​
   
 
 
 ## 🚀 Featured Projects
-[Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
+[Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects-/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
 
 [Linux Journey](https://github.com/miholmestech/linux-journey-)
