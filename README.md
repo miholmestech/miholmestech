@@ -13,15 +13,27 @@ CompTIA Certified
 ## 🛡️ Progress Roadmap
 | Phase | Status | Key Skills |
 |-------|--------|-----------|
-| **Linux CLI** | Ch.31/36 [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
+| ** The Linux CLI** | [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
 
 
 
 ## 🔥 Current Focus
-- `📚` Linux Command Line book (Ch.31/36)
-- `💻` RangeForce Linux Core Path
+
+- `📚` The Linux Command Line book (read)
+- `💻` RangeForce Linux Core Path (4/6 cores completed)
 - `🔧` CLI muscle memory + Kali labs
 - `📁` Portfolio organization
+
+## 🧪 Home Lab
+
+- `🛡️` Wazuh home SOC lab (Ubuntu + Windows 10 + Kali VMs)
+
+## 📂 SOC Analyst Projects
+
+- `📝` Endpoint detection and investigation reports from Wazuh lab activity
+
+​
+  
 
 
 ## 🚀 Featured Projects
