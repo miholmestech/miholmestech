@@ -10,12 +10,6 @@ CompTIA Certified
 [![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-red?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/64eff6d2-242b-4222-8534-c4fe9a003254/public_url)
 
 
-## 🛡️ Progress Roadmap
-| Phase | Status | Key Skills |
-|-------|--------|-----------|
-| ** The Linux CLI** | [linux-journey](https://github.com/miholmestech/linux-journey-) | File mgmt, zsh, Kali, scripting |
-
-
 
 ## 🔥 Current Focus
 
@@ -37,6 +31,7 @@ CompTIA Certified
 
 
 ## 🚀 Featured Projects
+[Endpoint Compromise Detection & Threat Containment]
 [linux-journey](https://github.com/miholmestech/linux-journey-)
 > 36-chapter Linux CLI mastery + demos
 
