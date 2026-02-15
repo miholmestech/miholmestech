@@ -20,7 +20,7 @@ CompTIA Certified
 
 ## 🧪 Home Lab
 
-- `🛡️` Wazuh home SOC lab (Ubuntu)
+- `🛡️` [Wazuh home SOC lab (Ubuntu)](https://github.com/miholmestech/soc-detection-lab/tree/main/01%20Multi%20Host%20SIEM%20with%20Sysmon)
 
 ## 📂 SOC Analyst Projects
 
