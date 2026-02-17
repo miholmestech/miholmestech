@@ -39,5 +39,7 @@ CompTIA Certified
 [Linux Journey](https://github.com/miholmestech/linux-journey-)
 > Linux CLI mastery + demos
 
-**#BlueTeam #SOCAnalyst #Linux** - Learning in public 🚀
+
+👩🏿‍💻  
+*SOC Analyst | Blue Team Focus*  
 
