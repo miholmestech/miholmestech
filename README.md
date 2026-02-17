@@ -15,10 +15,10 @@ CompTIA Certified
 
 ## 🔥 Current Focus
 
-- `📚` The Linux Command Line book (read)
-- `💻` RangeForce Linux Core Path (4/6 cores completed)
-- `🔧` CLI muscle memory + Kali labs
-- `📁` Portfolio organization
+- SOC investigations in my multi-host SIEM lab  
+- Detection use cases & alert analysis  
+- Writing analyst-style investigation reports  
+- Linux Basics for Hackers 
 
 ## 🧪 Home Lab
 
