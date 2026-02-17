@@ -2,7 +2,7 @@
 
 **Teaneck, NJ** |[LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
 
-** Blue Team Training | RangeForce | Linux Fundamentals ** 
+** Blue Team Training | Linux Fundamentals ** 
 
 Hands-on SOC analyst building detection and investigation skills through a multi-host SIEM lab and real-world attack simulations.
 
