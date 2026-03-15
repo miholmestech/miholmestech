@@ -2,7 +2,7 @@
 
 **Teaneck, NJ** |[LinkedIn](https://www.linkedin.com/in/michelle-holmes-252441291/)
 
-** Blue Team Training | Linux Fundamentals ** 
+**Blue Team Training | Linux Fundamentals** 
 
 Hands-on SOC analyst building detection and investigation skills through a multi-host SIEM lab and real-world attack simulations.
 
@@ -12,15 +12,14 @@ CompTIA Certified
 [![CySA+](https://img.shields.io/badge/CompTIA_CySA%2B-red?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/64eff6d2-242b-4222-8534-c4fe9a003254/public_url)
 
 
-
 ## 🔥 Current Focus
 
-- SOC investigations in my multi-host SIEM lab  
-- Detection use cases & alert analysis  
-- Writing analyst-style investigation reports  
-- Linux Basics for Hackers 
+- SOC investigations in my multi-host Wazuh SIEM lab  
+- Detection engineering & alert analysis  
+- Writing structured analyst investigation reports  
+- Linux fundamentals & command-line security workflows
 
-## 🧪 Home Lab
+## 🧪 Multi-Host SOC Lab
 
 - `🛡️` [Wazuh home SOC lab (Ubuntu)](https://github.com/miholmestech/soc-detection-lab/tree/main/01%20Multi%20Host%20SIEM%20with%20Sysmon)
 
@@ -33,11 +32,10 @@ CompTIA Certified
 
 
 ## 🚀 Featured Projects
-[Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects-/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
 
 [Linux Journey](https://github.com/miholmestech/linux-journey-)
-> Linux CLI mastery + demos
+>Linux command-line fundamentals, security tooling, and practical demonstrations while studying Linux Basics for Hackers.
 
 
 👩🏿‍💻  
