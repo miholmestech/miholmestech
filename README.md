@@ -4,7 +4,7 @@
 
 **Blue Team Training | Linux Fundamentals** 
 
-Hands-on SOC analyst building detection and investigation skills through a multi-host SIEM lab and real-world attack simulations.
+Hands-on SOC analyst developing detection and investigation skills through a multi-host SIEM lab and real-world attack simulations.
 
 CompTIA Certified  
 [![Network+](https://img.shields.io/badge/CompTIA_Network%2B-red?style=flat&logo=comptia&logoColor=white)](https://www.credly.com/badges/8178fd2e-f02f-4a62-9cd7-f8a961f34b44/public_url) 
@@ -19,11 +19,11 @@ CompTIA Certified
 - Writing structured analyst investigation reports  
 - Linux fundamentals & command-line security workflows
 
-## 🧪 Multi-Host SOC Lab
+## 🧪 Multi-Host SOC Detection Lab
 
 - `🛡️` [Wazuh home SOC lab (Ubuntu)](https://github.com/miholmestech/soc-detection-lab/tree/main/01%20Multi%20Host%20SIEM%20with%20Sysmon)
 
-## 🖥️ Mult-Host Lab Architecture
+## 🖥️ Multi-Host Lab Architecture
 
 This lab simulates a small monitored enterprise network with centralized telemetry collection and attacker simulation.
 
