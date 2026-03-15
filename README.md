@@ -23,7 +23,7 @@ CompTIA Certified
 
 - `🛡️` [Wazuh home SOC lab (Ubuntu)](https://github.com/miholmestech/soc-detection-lab/tree/main/01%20Multi%20Host%20SIEM%20with%20Sysmon)
 
-## 🖥️ SOC Lab Architecture
+## 🖥️ Mult-Host Lab Architecture
 
 This lab simulates a small monitored enterprise network with centralized telemetry collection and attacker simulation.
 
