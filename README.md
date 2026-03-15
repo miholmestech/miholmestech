@@ -23,12 +23,42 @@ CompTIA Certified
 
 - `🛡️` [Wazuh home SOC lab (Ubuntu)](https://github.com/miholmestech/soc-detection-lab/tree/main/01%20Multi%20Host%20SIEM%20with%20Sysmon)
 
+## 🖥️ SOC Lab Architecture
+
+This lab simulates a small monitored enterprise network with centralized telemetry collection and attacker simulation.
+
+### Environment
+
+- **Wazuh SIEM Server (Ubuntu)**
+  - Log collection
+  - Alert generation
+  - Security monitoring dashboard
+
+- **Windows 10 Endpoint**
+  - Sysmon telemetry
+  - Wazuh agent installed
+  - RDP activity monitoring
+
+- **Linux Endpoint (Ubuntu)**
+  - SSH activity generation
+  - Wazuh agent installed
+  - Clean log source for detection exercises
+
+- **Kali Linux Attacker Machine**
+  - SSH brute-force simulations
+  - RDP attack testing
+  - Adversary activity generation
+
+### Telemetry Flow
+
+Endpoints send security telemetry to the **Wazuh SIEM**, where alerts are generated and investigations are performed.
+
+
 ## 📂 SOC Analyst Projects
 
 - `📝` [Endpoint Compromise Detection & Threat Containment](https://github.com/miholmestech/SOC-Analyst-Projects-/tree/main/02-Endpoint-Compromise-Detection-and-Threat-Containment)
 
 ​
-  
 
 
 ## 🚀 Featured Projects
@@ -36,7 +66,6 @@ CompTIA Certified
 
 [Linux Journey](https://github.com/miholmestech/linux-journey-)
 >Linux command-line fundamentals, security tooling, and practical demonstrations while studying Linux Basics for Hackers.
-
 
 👩🏿‍💻  
 *SOC Analyst | Blue Team Focus*  
